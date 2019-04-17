@@ -1,5 +1,6 @@
 import java.util.Random;
 public class ProgrammingProjectOne
+    //Sarah Luan
 //The program generates three random integers between 0 and 50 and then calculates and prints the average to one demical place
 {
     public static void main(String[] args)

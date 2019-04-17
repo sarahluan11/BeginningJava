@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class ProgrammingProjectTwo
+    //Sarah Luan
 // The program retrieves the name of the site and outputs it as a URL that starts with www. and ends in .com
 {
     public static void main(String[] args)
