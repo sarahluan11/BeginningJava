@@ -7,11 +7,7 @@ public class Assignments
 {
     public static void main(String[] args)
     {
-       //int a = 6;
-       //NumberFormat nf = NumberFormat.getCurrencyInstance();
-       String s = "467887";
+       Point p1 = new Point();
 
-       int i = Integer.parseInt( s);
-       System.out.print("s is :"+ i);
     }
 }
