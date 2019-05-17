@@ -34,6 +34,6 @@ public class GamePlay
                System.out.println("Do you want to continue to play?");
                Scanner scan1 = new Scanner(System.in);
                input= scan1.nextLine();
-            }
+            }//
         }
 }
