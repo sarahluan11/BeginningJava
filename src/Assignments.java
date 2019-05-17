@@ -1,13 +1,7 @@
-
-import java.text.NumberFormat;
-import java.util.Random;
-import java.util.Scanner;
-
+import java.util.*;
 public class Assignments
 {
     public static void main(String[] args)
     {
-       Point p1 = new Point();
-
     }
 }
